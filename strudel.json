@@ -1,7 +1,10 @@
 {
-  "opn":["/oneothrix/intro.mp3"],
-  "oneohtrix_all":["/oneothrix/oneohtrix_all.aif"],
-  "oneohtrix_all2":["/oneothrix/oneohtrix_all2.m4a"],
-  "oneohtrix":["/oneothrix/oneohtrix.aif"],
-  "oneohtrix1":["/oneothrix/oneohtrix1.aif"]
+  "opn":[
+    "oneothrix/intro.mp3",
+    "oneothrix/oneohtrix_all.aif",
+    "oneothrix/oneohtrix_all2.m4a",
+    "oneothrix/oneohtrix.aif",
+    "oneothrix/oneohtrix1.aif"
+  ],
+  "_base":"https://raw.githubusercontent.com/pogon/opn/refs/heads/main/"
 }
